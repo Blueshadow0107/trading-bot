@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Secrets
+.env
+*.env
+config/secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# State files (optional - might want to track these)
+# soda_paper_state.json
